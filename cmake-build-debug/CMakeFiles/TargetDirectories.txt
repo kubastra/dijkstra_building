@@ -1,0 +1,3 @@
+C:/Zadanie7A/cmake-build-debug/CMakeFiles/Zadanie7A.dir
+C:/Zadanie7A/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Zadanie7A/cmake-build-debug/CMakeFiles/rebuild_cache.dir
